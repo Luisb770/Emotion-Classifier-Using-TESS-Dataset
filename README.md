@@ -122,7 +122,7 @@ The dataset is slightly imbalanced, with some emotions appearing more frequently
 
 ## Acknowledgements
 
-We would like to thank the University of Toronto for providing the TESS dataset. This high-quality dataset has been instrumental in training robust emotion classifiers.
+I would like to thank the University of Toronto for providing the TESS dataset. This high-quality dataset has been instrumental in training robust emotion classifiers.
 
 ---
 
